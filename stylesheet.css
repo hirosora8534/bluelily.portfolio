@@ -117,6 +117,9 @@ p {
   margin: 30px;
   margin-bottom: 0;
 }
+#gallery .flex .item img:first-child {
+  object-position: left;
+}
 #gallery .flex .price {
   text-align: end;
   margin-right: 30px;
